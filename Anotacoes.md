@@ -16,7 +16,7 @@
 ### title="mensagem"
   `A mensagem que será informada caso o pattern solicitado não seja correspondente.`
   `OBS: title só funciona como mensagem para o pattern`
-## elemento.setCustomValidity(mensagem);
+## input.setCustomValidity(mensagem);
   `Mostra uma mensagem de erro para o elemento selecionado.`
   `Use uma string vazia para informar que o elemento não possue nenhum erro.`
 ## Mensagens de erro customizadas
